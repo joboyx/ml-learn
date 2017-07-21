@@ -3,9 +3,9 @@
     {
       "tensorName":    "Claim Line 10K",
       "tensorShape":   [10000, 694],
-      "tensorPath":    "https://raw.githubusercontent.com/joboyx/ml-learn/master/data_tf_claim_line/model.ckpt.data-00000-of-00001",
-      "metadataPath":  "https://raw.githubusercontent.com/joboyx/ml-learn/master/data_tf_claim_line/metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/joboyx/ml-learn/master/data_tf_claim_line/state.txt"
+      "tensorPath":    "data_tf_claim_line/model.ckpt.data-00000-of-00001",
+      "metadataPath":  "data_tf_claim_line/metadata.tsv",
+      "bookmarksPath": "data_tf_claim_line/state.txt"
     }
   ],
   "modelCheckpointPath": "Claim Line Dataset"
