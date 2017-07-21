@@ -3,9 +3,9 @@
     {
       "tensorName":    "Claim Line 10K",
       "tensorShape":   [10000, 694],
-      "tensorPath":    "data_tf_claim_line/model.ckpt.data-00000-of-00001",
-      "metadataPath":  "data_tf_claim_line/metadata.tsv",
-      "bookmarksPath": "data_tf_claim_line/state.txt"
+      "tensorPath":    "model.ckpt.data-00000-of-00001",
+      "metadataPath":  "metadata.tsv",
+      "bookmarksPath": "state.txt"
     }
   ],
   "modelCheckpointPath": "Claim Line Dataset"
